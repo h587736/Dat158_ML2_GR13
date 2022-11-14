@@ -33,6 +33,10 @@ The task at hand is to predict the price of residential homes based on data from
 3. Example usage
 	- Take a look at our video showing how to use the model.
 
+https://user-images.githubusercontent.com/54101886/201681092-8f542dff-f201-4fec-974e-439eb0c1df5a.mp4
+
+
+
 
 4. How to set up the dev enviourment
 	- We made use of VS Code due to it being very simple and having a great overview of the files currently being worked at. Plus, it also has 	built in 	PowerShell CLI, and has support for Python, Bash, Etc. Simply install VS Code and open the project folder from our repo. 	
