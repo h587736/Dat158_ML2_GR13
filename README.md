@@ -13,8 +13,9 @@ Group ML_group_16 - Thor Alme Aasheim, Fred Nilsen Christiansen
 
 --------------------------------------------------------
 
-1. What your project does
-	The task at hand is to predict the price of residential homes based on data from Ames, Iowa. The data contains 79 different features, and a 	little over 1400 	entries. So our project attempts that exactly! To predict the price of a house, based on a set of features given by the user.
+1. What your project does:
+	
+The task at hand is to predict the price of residential homes based on data from Ames, Iowa. The data contains 79 different features, and a 	little over 1400 entries. So our project attempts that exactly! To predict the price of a house, based on a set of features given by the user.
   
 
 2. How to install it
@@ -42,7 +43,8 @@ Group ML_group_16 - Thor Alme Aasheim, Fred Nilsen Christiansen
 
 
 6. Change Log
-	- Updated ReadMe. (Lol) 
+	- Inital Push
+	- Updated ReadMe.  
 
 
 7. Author info
@@ -55,7 +57,7 @@ We could pick between a couple of machine learning problems which all seemed int
 
 If you want to see the tutorial from Alexander Lundervold or his github repo, i will put the links down below:
 
-Github: https://github.com/alu042/DAT158ML/tree/master/a_quick_flask_tutorial (We made use of elements mainly from ex4-ml_and_flask)
+Github: https://github.com/alu042/DAT158ML/tree/master/a_quick_flask_tutorial (We made use of elements mainly from ex4-ml_and_flask), (outdated link)
 
 Tutorial: https://skaliy.no/DAT158-ML-21/jupyter/2021/10/09/machine-learning-in-practice.html (two videos at the bottom).
 
